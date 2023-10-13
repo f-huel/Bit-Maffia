@@ -20,27 +20,41 @@ BIT FCM (BIT stands for the Bit in Bit academy and the FCM stands for Feestcommi
 14. [Examples](#examples)
 
 ## Installation
+- Explain how to install your project step-by-step
 
 ## Usage
+- Describe how to use your project
 
 ## Configuration
-
+- Configuration settings or environment variables, explain how to set them up
+  
 ## Contributing
+- Include information about the coding style, pull request process, and any contribution guidelines
 
 ## License
+- Specify the license under which your project is distributed
 
 ## Documentation
+- Extensive documentation
 
 ## Credits
+- Acknowledge any individuals or resources that contributed to your project
 
 ## Contact Information
+📧 | bitfcm23@gmail.com
 
 ## Badges
+- Quick information about the project's status, such as build status, code coverage, or version
 
 ## FAQ
+- Common questions or issues that user might encounter
 
 ## Changelog 
+- Regular version updates with details
 
 ## Roadmap 
+- Future plans?
 
 ## Examples
+- Example
+- Example
