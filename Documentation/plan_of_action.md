@@ -7,7 +7,7 @@
 - Home Page has info about Bit FCM
 - Event Page shows upcoming events
 - Ideas Page will be a form where other students can give ideas
-- Contact Page is for contact with the team (Bit-Maffia)
+- Contact Page is for contact with the team (Bit-Mafia)
 - Team Page is the showcase of the team (current team?)
 
 ## Database
