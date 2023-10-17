@@ -10,3 +10,9 @@ CREATE TABLE `event` (
     event_date DATE NOT NULL, 
     event_summary TEXT NOT NULL 
 );
+
+CREATE TABLE `idea` (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    idea TEXT NOT NULL
+);
