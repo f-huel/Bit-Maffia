@@ -14,7 +14,7 @@
 <nav class="stroke navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
 
-            <a class="navbar-brand" href="index.php"><img src="images/bit-fcm.png" alt="" width="140" height="140"></a>
+            <a class="navbar-brand" href="index.php"><img src="images/bit-fcm.png" alt="" width="120" height="120"></a>
 
             <button class="navbar-toggler d-flex d-lg-none flex-column justify-content-around" type="button"
                 data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="true"
