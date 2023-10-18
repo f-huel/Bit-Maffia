@@ -1,15 +1,14 @@
-small {
-    font-size: 12px;
-    color: rgba(0, 0, 0, 0.4);
+.body {
+    background-color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    background-color: hotpink;
 }
 
 .center {
     text-align: center;
-}
-
-.navbar {
-    box-shadow: #5a5a5a 0px 0px 10px 0px;
-    background-color: hotpink;
 }
 
 .nav-lang {
@@ -213,4 +212,13 @@ nav.fill ul li a:hover:after {
 
 .navbar-toggler.collapsed .toggler-icon {
     background: #000000;
+}
+
+.header-text {
+    text-align: center;
+    font-weight: bold;
+}
+
+.text {
+    text-align: center;
 }
