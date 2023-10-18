@@ -16,3 +16,10 @@ CREATE TABLE `idea` (
     name VARCHAR(100) NOT NULL,
     idea TEXT NOT NULL
 );
+
+CREATE TABLE `contact` (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(320) NOT NULL,
+    reason TEXT NOT NULL
+);
