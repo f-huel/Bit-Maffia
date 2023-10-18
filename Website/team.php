@@ -44,11 +44,21 @@
     <h5 class="text mt-4">
         We are a group of students who want to make the best out of our time at Bit Academy.
         <br>
-        We had the idea to create an event/party committee to organize events for the students.
+        We had the idea to create an event/party committee to organize events for the other students.
         <br>
-        We are a group of 3 students who are responsible for the organization of the events.
+        We are a group of students who are responsible for the organization of the events.
         <br>
         We hope that everyone will enjoy this as much as we do.
+    </h5>
+
+    <h1 class="header-text mt-5">Here Goes Team Image</h1>
+
+    <h5 class="text mt-4">
+        We call ourself Bit Mafia, the most dangerous group of Bit Academy.
+        <br>
+        Just kidding, we are just here to organize events for the other students (and to have fun).
+        <br>
+        Our team consists of 3 members, who are Felix (2nd year), Chelsea (1st year) and Mehdi (1st year).
     </h5>
 
 

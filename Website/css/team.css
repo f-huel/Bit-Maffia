@@ -1,5 +1,6 @@
 .body {
     background-color: hotpink;
+    color: #000000;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -96,7 +97,7 @@ nav.fill ul li a:hover:after {
     opacity: 1;
 }
 
-@-webkit-keyframes fill {
+@keyframes fill {
     0% {
         width: 0%;
         height: 1px;
@@ -114,7 +115,7 @@ nav.fill ul li a:hover:after {
     }
 }
 
-@-webkit-keyframes circle {
+@keyframes circle {
     0% {
         width: 1px;
         top: 0;
