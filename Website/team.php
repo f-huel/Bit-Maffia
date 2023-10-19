@@ -58,7 +58,7 @@
         <br>
         Just kidding, we are just here to organize events for the other students (and to have fun).
         <br>
-        Our team consists of 3 members, who are Felix (2nd year), Chelsea (1st year) and Mehdi (1st year).
+        Our team consists of 4 members, who are Dylan (3rd year),1 Felix (2nd year), Chelsea (1st year) and Mehdi (1st year).
     </h5>
 
 
