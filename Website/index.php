@@ -131,13 +131,13 @@
             </div>
 
             <div class="contact-form">
-                <form method="post">
+                <form action="send.php" method="post">
                     <label for="name">Name:</label>
                     <input type="text" name="name" placeholder="Naam" required>
                     <label for="email">Email:</label>
-                    <input type="email" name="email" placeholder="Email" required>
+                    <input type="email" id="email" name="email" placeholder="Email" required>
                     <label for="message">Bericht:</label>
-                    <textarea name="message" placeholder="Bericht" required></textarea>
+                    <textarea name="message" id="bericht" placeholder="Bericht" required></textarea>
                     <input type="submit" value="SEND" name="add">
                 </form>
             </div>
