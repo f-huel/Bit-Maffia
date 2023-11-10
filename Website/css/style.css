@@ -92,6 +92,7 @@ nav a.active {
     text-align: left;
     color: black;
     background-color: hotpink;
+    border-radius: 0;
 }
 
 form {
