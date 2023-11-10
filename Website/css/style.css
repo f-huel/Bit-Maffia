@@ -27,7 +27,7 @@ li a {
 .section {
     margin-left: 10%;
     padding: 10px;
-    height: 1000px;
+    height: 700px;
 }
 
 #home {
@@ -59,35 +59,48 @@ nav a.active {
     margin-top: 100px;
 }
 
+.event-table {
+    border-collapse: collapse;
+    width: 30%;
+    margin: 15px auto;
+}
+
+.event-th,
+.event-td {
+    border: 1px solid MediumVioletRed;
+    padding: 10px;
+    text-align: left;
+    color: black;
+    background-color: hotpink;
+}
+
 .link {
     text-decoration: none;
     color: black;
 }
 
-table {
+.contact-table {
     border-collapse: collapse;
-    width: 40%;
+    width: 30%;
     margin: 15px auto;
 }
 
-th,
-td {
-    border: 1px solid black;
-    padding: 40px;
+.contact-th,
+.contact-td {
+    border: 1px solid MediumVioletRed;
+    padding: 45px;
     text-align: left;
     color: black;
     background-color: hotpink;
-    border-radius: 5px;
 }
 
 form {
     margin: 15px auto;
     width: 60%;
     text-align: center;
-    padding: 20px;
+    padding: 5px;
     border: 1px solid MediumVioletRed;
     background-color: hotpink;
-    border-radius: 5px;
 }
 
 form label {
@@ -102,8 +115,8 @@ form input[type="email"],
 form input[type="tel"],
 form textarea {
     width: 95%;
-    padding: 10px;
-    margin-top: 3px;
+    padding: 7px;
+    margin-top: 8px;
     border: 1px solid MediumVioletRed;
     border-radius: 5px;
 }
@@ -128,6 +141,26 @@ form input[type="submit"]:hover {
     background-color: MediumVioletRed;
     color: black;
     border: 1px solid MediumVioletRed;
+}
+
+.container-event {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+@media (max-width: 768px) {
+    .container-event {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .upcoming, .happened {
+        width: 100%;
+        margin: 0;
+    }
 }
 
 .container-contact {
