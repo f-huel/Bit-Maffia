@@ -27,7 +27,7 @@ li a {
 .section {
     margin-left: 10%;
     padding: 10px;
-    height: 700px;
+    height: 1000px;
 }
 
 #home {
@@ -61,14 +61,21 @@ nav a.active {
 
 .event-table {
     border-collapse: collapse;
-    width: 30%;
+    width: 40%;
     margin: 15px auto;
 }
 
-.event-th,
-.event-td {
+.event-th {
     border: 1px solid MediumVioletRed;
     padding: 10px;
+    text-align: left;
+    color: black;
+    background-color: hotpink;
+}
+
+.event-td {
+    border: 1px solid MediumVioletRed;
+    padding: 20px;
     text-align: left;
     color: black;
     background-color: hotpink;
